@@ -1,0 +1,9 @@
+{
+  "name": "rust",
+  "description": "rust",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::575575708653:role/rust_lambda_function",
+  "environment": {},
+  "profile": "kerbyferris"
+}
